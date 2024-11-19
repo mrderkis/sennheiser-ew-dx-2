@@ -1,0 +1,82 @@
+{
+  "R2": {
+    "channel1": {
+      "name": "N/A",
+      "mute": "N/A",
+      "frequency": 546400,
+      "gain": 36,
+      "battery": "N/A"
+    },
+    "channel2": {}
+  },
+  "R6": {
+    "channel1": {
+      "name": "N/A",
+      "mute": "N/A",
+      "frequency": 542800,
+      "gain": 33,
+      "battery": "N/A"
+    },
+    "channel2": {}
+  },
+  "R7": {
+    "channel1": {
+      "name": "N/A",
+      "mute": "N/A",
+      "frequency": 548800,
+      "gain": 33,
+      "battery": "N/A"
+    },
+    "channel2": {}
+  },
+  "R4": {
+    "channel1": {
+      "name": "N/A",
+      "mute": "N/A",
+      "frequency": 541600,
+      "gain": 24,
+      "battery": "N/A"
+    },
+    "channel2": {}
+  },
+  "R8": {
+    "channel1": {
+      "name": "N/A",
+      "mute": "N/A",
+      "frequency": 547600,
+      "gain": 33,
+      "battery": "N/A"
+    },
+    "channel2": {}
+  },
+  "R3": {
+    "channel1": {
+      "name": "N/A",
+      "mute": "N/A",
+      "frequency": 550000,
+      "gain": 30,
+      "battery": "N/A"
+    },
+    "channel2": {}
+  },
+  "R5": {
+    "channel1": {
+      "name": "N/A",
+      "mute": "N/A",
+      "frequency": 544000,
+      "gain": 36,
+      "battery": "N/A"
+    },
+    "channel2": {}
+  },
+  "R1": {
+    "channel1": {
+      "name": "N/A",
+      "mute": "N/A",
+      "frequency": 470200,
+      "gain": 18,
+      "battery": "N/A"
+    },
+    "channel2": {}
+  }
+}
